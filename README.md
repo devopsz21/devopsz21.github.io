@@ -1,2 +1,2 @@
 # devopsz21.github.io
-my personal blog site. 
+Developing devops solutions ...........
